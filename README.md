@@ -1,6 +1,9 @@
 ## Wikipedia Search App
 A responsive web application to search Wikipedia articles in real time using the Wikipedia Search API.
 
+## View Website
+[View Website](https://jeshuwikipedia.ccbp.tech/)
+
 ## 🌐 Live Demo
 
 [View Live Project](https://drive.google.com/file/d/1C1Cwtr7Fh7faU9cCSrnytsKTmEY9cUwy/view?usp=drive_link) 
